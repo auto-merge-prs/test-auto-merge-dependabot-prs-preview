@@ -1,0 +1,6 @@
+[package]
+name = "test-auto-merge-dependabot-prs-preview"
+version = "0.1.0"
+
+[dependencies]
+print-own-version = "0.0.1"
